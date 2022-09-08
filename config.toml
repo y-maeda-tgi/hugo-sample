@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://github.com/y-maeda-tgi/hugo-sample/'
 languageCode = 'ja'
 title = 'My New Hugo Site'
 theme = "ananke"
