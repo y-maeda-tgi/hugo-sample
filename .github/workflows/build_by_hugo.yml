@@ -20,6 +20,7 @@ jobs:
       with:
         # Versionは最新のものにする
         hugo-version: "0.101.0"
+        target: public
 
     - name: Build
       run: hugo --minify
